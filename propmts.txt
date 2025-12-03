@@ -1,0 +1,10 @@
+# SYNTHETIC NOSTOS - Generative Prompts
+
+--- SAMPLE 1: The Cliché ---
+1. A nostalgic image of childhood memory, warm feelings, vintage style. (Used for the sepia playground image.)
+
+--- SAMPLE 2: The Sensory Detail / Algos Test ---
+2. The view from a kitchen window on a rainy Sunday afternoon in 1998, a half-eaten piece of bread on the table, blurry glass, feeling of waiting for someone who won't come, silence, low fidelity photo. (Used for the lonely kitchen scene.)
+
+--- SAMPLE 3: The Abstraction / Glitch Test ---
+3. A memory fading away, facial features melting into static noise, corrupted jpeg file of a family dinner, fragmentation, double exposure, psychological texture of forgetting. (Used for the distortion image.)
